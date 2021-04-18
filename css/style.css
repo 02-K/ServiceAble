@@ -80,10 +80,7 @@ nav .links a {
   color:black;
   transition:0.5s all;
 }
-#hovernav5:hover {
-  color:black;
-  transition:0.5s all;
-}
+
 #nav-toggle {
   position: absolute;
   top: -100px;
