@@ -20,7 +20,7 @@ body {
 }
 p{
   color: black;
-  font-size: 1rem;
+  font-size: 13px;
 }
 nav {
   position: fixed;
@@ -268,7 +268,7 @@ nav .icon-burger .line {
 
     @media (max-width: 400px) {
 .sizepp{
-    font-size: 7px;
+    font-size: 13px;
   }
 }
 
