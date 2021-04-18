@@ -268,7 +268,7 @@ nav .icon-burger .line {
 
     @media (max-width: 400px) {
 .sizepp{
-    font-size: 4px;
+    font-size: 2px;
   }
 }
 
@@ -282,7 +282,7 @@ nav .icon-burger .line {
 
 @media (max-width: 400px) {
   .size-tel{
-    width: 20px;
-    height: 20px;
+    width: 8px;
+    height: 16px;
   }
 }
