@@ -256,3 +256,33 @@ nav .icon-burger .line {
   padding-bottom: : 240px
   }
 }
+
+
+
+
+ @media (max-width: 400px) {
+.header{
+    font-size: 10px;
+  }
+}
+
+    @media (max-width: 400px) {
+.sizepp{
+    font-size: 4px;
+  }
+}
+
+    @media  (max-width: 400px) {
+#contactus2{
+  font-size: 8px;
+  }
+}
+
+
+
+@media (max-width: 400px) {
+  .size-tel{
+    width: 20px;
+    height: 20px;
+  }
+}
