@@ -18,7 +18,7 @@
 	width: 300px;
 }
 
-.card h1{
+.header{
 	color: white;
 	background-color:#FF5733;
 	font-size: 55px;
@@ -35,7 +35,7 @@
 	padding-top: 20px;
 }
 
-#size-p{
+.size-p{
 	font-size: 20px;
 }
 
