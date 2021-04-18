@@ -262,19 +262,19 @@ nav .icon-burger .line {
 
  @media (max-width: 400px) {
 .header{
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
     @media (max-width: 400px) {
 .sizepp{
-    font-size: 2px;
+    font-size: 7px;
   }
 }
 
     @media  (max-width: 400px) {
 #contactus2{
-  font-size: 8px;
+  font-size: 10px;
   }
 }
 
@@ -284,5 +284,11 @@ nav .icon-burger .line {
   .size-tel{
     width: 8px;
     height: 16px;
+  }
+}
+
+@media (max-width: 400px) {
+  body{
+    size: 100%
   }
 }
